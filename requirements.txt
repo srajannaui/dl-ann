@@ -1,4 +1,3 @@
---upgrade pip
 tensorflow
 pandas 
 numpy 
@@ -6,5 +5,3 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
-
-scikeras
